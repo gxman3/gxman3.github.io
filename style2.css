@@ -1,0 +1,30 @@
+.main_content {
+    background-color: black;
+    text-align: center;
+    color: black;
+    height: 1000px;
+}
+
+.my_projects h1 {
+    text-align: center;
+    margin-top: 30px;
+    color: crimson;
+}
+
+.my_projects .project ul {
+    margin-top: 30px;
+    color: crimson;
+}
+
+.contact_me {
+    text-align: center;
+}
+
+.contact_me .contact {
+    text-align: center;
+}
+
+.contact_me h1 {
+    text-align: center;
+    color: crimson
+}
